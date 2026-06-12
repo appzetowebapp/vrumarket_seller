@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "593734915022",
+    "project_id": "vrumarket-da491",
+    "storage_bucket": "vrumarket-da491.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593734915022:android:4448de32b34274b286119f",
+        "android_client_info": {
+          "package_name": "com.vrumarket.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYvtfPvB8VLyvbQwnRaBxtwsVAy4TEWnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593734915022:android:4691db8ffd38a4d886119f",
+        "android_client_info": {
+          "package_name": "com.vrumarket.seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYvtfPvB8VLyvbQwnRaBxtwsVAy4TEWnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593734915022:android:e8276d2f70cdae3686119f",
+        "android_client_info": {
+          "package_name": "com.vrumarket.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYvtfPvB8VLyvbQwnRaBxtwsVAy4TEWnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
