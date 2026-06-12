@@ -2005,7 +2005,7 @@ class _WebViewScreenState extends State<WebViewScreen>
 
     await FlutterOverlayWindow.showOverlay(
       enableDrag: true,
-      overlayTitle: "Vrushahi Market Overlay",
+      overlayTitle: "Vrushahi Seller Overlay",
       overlayContent: "Tap to open app",
       flag: OverlayFlag.defaultFlag,
       visibility: NotificationVisibility.visibilityPublic,
