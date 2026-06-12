@@ -29,7 +29,7 @@ void onStart(ServiceInstance service) async {
 
     // Set initial notification content once
     service.setForegroundNotificationInfo(
-      title: "Vrushahi Market Service Active",
+      title: "Vrushahi Seller Service Active",
       content: "Waiting for new orders...",
     );
 
@@ -58,7 +58,7 @@ void onStart(ServiceInstance service) async {
         
         // Reset notification info
         service.setForegroundNotificationInfo(
-          title: "Vrushahi Market Service Active",
+          title: "Vrushahi Seller Service Active",
           content: "Waiting for new orders...",
         );
       }
