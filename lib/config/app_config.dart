@@ -13,7 +13,7 @@ import 'package:flutter/material.dart';
 /// All settings are documented inline for easy customization.
 class AppConfig {
   // ==================== APP IDENTITY ====================
-  static const String appName = 'Vrushahi Market';
+  static const String appName = 'Vrushahi Seller';
   static const String appLogoPath = 'assets/images/logo.png';
 
   // ==================== COLORS & THEME ====================
